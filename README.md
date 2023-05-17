@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Erez, a Computer Science student currently in my third year of Bachelor's degree at Bar Ilan University.
+My expected graduation date is August 2024.
+This GitHub repository contains some of my projects and coursework related to computer science.
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadav-erez-elgrabli-a33293228/)
+
 
 <!--
 **NadavErezElgrabli/NadavErezElgrabli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey ! , 
